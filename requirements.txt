@@ -1,0 +1,7 @@
+flask_marshmallow==0.15.0
+flask_cors==3.0.10
+pydantic==1.10.2
+flask_jwt==0.3.2
+bcrypt==4.0.1
+pymysql==1.4.6
+flask==2.3.2

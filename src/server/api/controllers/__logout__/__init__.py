@@ -1,0 +1,1 @@
+from .logout import app
